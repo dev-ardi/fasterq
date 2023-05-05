@@ -1,5 +1,5 @@
 import { expect } from "chai";
-import { Queue } from "./queue.js";
+import Queue from "./queue.js";
 
 describe("queue", () => {
   it("Basic operations", () => {
