@@ -1,0 +1,16 @@
+{
+  "name": "fasterq",
+  "version": "1.0.0",
+  "description": "simplest possible queue",
+  "main": "queue.js",
+  "author": "Ardi",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
