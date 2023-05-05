@@ -1,10 +1,11 @@
 {
   "name": "fasterq",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "simplest possible queue",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dev-ardi/fasterq.git"},
+    "url": "https://github.com/dev-ardi/fasterq.git"
+  },
   "main": "queue.js",
   "author": "Ardi",
   "license": "ISC",
