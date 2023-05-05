@@ -7,7 +7,8 @@
   "license": "ISC",
   "type": "module",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha test.js",
+    "bench": "node bench.js"
   },
   "devDependencies": {
     "chai": "^4.3.7",
